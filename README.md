@@ -1,2 +1,2 @@
 # restaurant-project
-add html and css files for restaurant
+added html and css files for restaurant
